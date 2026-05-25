@@ -6,7 +6,6 @@ node_modules/
 # -------------------------
 # Environment variables
 # -------------------------
-*.md
 .env
 .env.local
 .env.*.local
