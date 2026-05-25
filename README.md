@@ -21,9 +21,9 @@ OLLAMA_HOST=0.0.0.0:11434 ollama serve
 
 # Update
  Got data from users email 
-  next todo send it to backend for summary and get data from other apis as well and send them to llama
+  next todo send it to backend for summary and get data from other apis as well and send them to llama <br>
 
   #Need 
-  Front-end
-  dashboard 
+  Front-end <br>
+  dashboard <br>
   database where we can store auth tokens of different websites for users so that we dont have to login everytime
