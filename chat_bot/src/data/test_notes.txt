@@ -1,0 +1,30 @@
+Product Technical Specifications Document
+
+1. Drone Model A1
+- Weight: 1.2 kg
+- Battery: 5200 mAh lithium-ion
+- Flight time: 28 minutes
+- Range: 5 km
+- Camera: 4K 60fps stabilized
+- Max speed: 72 km/h
+
+2. Drone Model B2
+- Weight: 1.8 kg
+- Battery: 8000 mAh lithium-ion
+- Flight time: 38 minutes
+- Range: 10 km
+- Camera: 6K 30fps stabilized
+- Max speed: 95 km/h
+
+3. Ground Robot X1
+- Weight: 15 kg
+- Battery: 12000 mAh
+- Runtime: 6 hours
+- Sensors: LiDAR + Infrared + Ultrasonic
+- Max speed: 12 km/h
+
+4. Communication Module Z9
+- Frequency: 2.4 GHz / 5 GHz dual band
+- Range: 15 km line-of-sight
+- Encryption: AES-256
+- Latency: 20 ms average
