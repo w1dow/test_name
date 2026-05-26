@@ -10,11 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@notionhq/client": "^5.22.0",
     "axios": "^1.16.1",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
+    "googleapis": "^172.0.0",
     "openai": "^6.39.0"
   },
   "type": "module",
