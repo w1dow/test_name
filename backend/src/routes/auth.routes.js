@@ -11,6 +11,7 @@ router.get("/google", (req, res) => {
 
 // Step 2: callback from Google
 router.get("/google/callback", async (req, res) => {
+  console.log("CALLBACK HIT:", req.query);
   try {
     const code = req.query.code;
 

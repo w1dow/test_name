@@ -17,8 +17,12 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "googleapis": "^172.0.0",
+    "mysql2": "^3.22.4",
     "openai": "^6.39.0"
   },
   "type": "module",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }

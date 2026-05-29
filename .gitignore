@@ -74,3 +74,4 @@ uploads/
 # -------------------------
 src/data/*.txt
 src/data/*.docx
+*.zip

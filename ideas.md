@@ -224,3 +224,29 @@ NOTES / RANDOM THOUGHTS
 - "study debt collector + chat alerts" is probably the most original idea here
   because nobody has done "extract logistics from group chats" before
 - the chat intelligence layer could be its own product honestly
+
+These are Coral's official tracks. Here are Lumis-native tracks you could offer users — same format, your product:
+
+The Freelancer's Control Room · Gmail + Notion + Google Calendar
+Tracks proposals sent, follow-ups due, project deadlines, and unpaid invoices. One place to see if your business is healthy or on fire.
+
+The Founder's Pulse · Gmail + GitHub + Notion + Slack
+Morning snapshot: what shipped, what broke, who's blocked, what needs a decision from you today. Replaces your standup.
+
+The Job Seeker's Pipeline · Gmail + Notion + Google Calendar
+Tracks every application, interview, and follow-up. Tells you who went cold, what's coming up, and drafts your next check-in email.
+
+The Student's Second Brain · Google Calendar + Google Drive + Notion
+Joins your class schedule, lecture notes, and assignment list. Tells you what's due this week, what you haven't revised, and where you're behind.
+
+The Content Creator's Scoreboard · YouTube + Twitter + Notion
+Weekly report of what performed, what flopped, and what ideas in your Notion backlog match your top-performing topics.
+
+The Open Source Maintainer · GitHub + Gmail
+New issues triaged, stale PRs flagged, release notes drafted. Runs every morning without you asking.
+
+The Sales Rep's Assistant · Gmail + Google Calendar + Notion
+Surfaces deals gone cold, preps you for today's calls with last-email context, and logs meeting outcomes automatically.
+
+The Remote Team Lead · Slack + GitHub + Notion
+Tells you who's blocked, what shipped yesterday, and writes the weekly update to your manager so you don't have to.
